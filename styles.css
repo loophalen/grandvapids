@@ -12,7 +12,7 @@
    font-weight: 900;
    font-size: 10px;
    color: var(--black);
-   background: var(--yellow);
+   /* background: var(--yellow); */
   }
   
   /*
@@ -82,7 +82,7 @@
   }
 
   p{
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   
   a {
@@ -121,7 +121,7 @@
   .fixed-misc {
     position: fixed;
     top: 50%;
-    right: -48px;
+    right: -75px;
     transform: rotate(-90deg);
     font-weight: 900;
     text-transform: uppercase;
@@ -146,6 +146,7 @@
     /* height: 100px; */
     width: 100%;
     margin-top: auto;
+    /* overflow: hidden; */
   }
 
   
